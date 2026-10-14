@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Simple TechDraw",
+  "short_name": "TechDraw",
+  "description": "Parametric 2D CAD Sketcher & 3D Solid Modeler with Revolve, Extrude, CSG Cuts, Object Snapping, and Multi-Format CAD Export.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "design"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "VeloCAD Studio",
+  "description": "Professional Parametric 2D CAD Sketcher & 3D Solid Modeler with Revolve, Extrude, CSG Extrude-Cut, Freehand Vectorization, Layer Management, and Multi-Format CAD Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
